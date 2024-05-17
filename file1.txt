@@ -4,4 +4,5 @@ new change in file 1 from featurebranch2
 
 new change from featurebranch2 into file1.txt
 
+Hello world
 new changes in file 1 from release branch.
