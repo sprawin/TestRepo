@@ -3,3 +3,5 @@ hello programming 3
 Hello Peter 3
 change 1
 Welcome Developer
+
+New changes in file from release branch.
