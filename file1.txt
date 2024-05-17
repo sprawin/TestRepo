@@ -1,2 +1,2 @@
 My Second commit featurebranch1
-Channge from featurebranch2
+Change from featurebranch1; Second change
