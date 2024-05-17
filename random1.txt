@@ -1,5 +1,2 @@
-hello world 2
-hello prog 1
-Hello peter 1
-Change 1
-Welcome Notepad
+hello panda 1
+hello programmer 1
