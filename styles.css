@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#filterInput {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 12px 0;
+    box-sizing: border-box;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+td button {
+    background: none;
+    border: none;
+    color: blue;
+    cursor: pointer;
+    text-align: left;
+    font-size: 16px;
+    padding: 12px;
+}
+
+td button:hover {
+    text-decoration: underline;
+}

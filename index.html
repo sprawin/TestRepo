@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Filterable Table with Buttons</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Filterable Table</h1>
+    <input type="text" id="filterInput" placeholder="Filter table...">
+    <table id="dataTable">
+        <thead>
+            <tr>
+                <th>Account</th>
+                <th>Name</th>
+                <th>Entry</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><button onclick="alert('Account: 001')">001</button></td>
+                <td><button onclick="alert('Name: John Doe')">John Doe</button></td>
+                <td><button onclick="alert('Entry: Entry A')">Entry A</button></td>
+            </tr>
+            <tr>
+                <td><button onclick="alert('Account: 002')">002</button></td>
+                <td><button onclick="alert('Name: Jane Smith')">Jane Smith</button></td>
+                <td><button onclick="alert('Entry: Entry B')">Entry B</button></td>
+            </tr>
+            <tr>
+                <td><button onclick="alert('Account: 003')">003</button></td>
+                <td><button onclick="alert('Name: Jim Brown')">Jim Brown</button></td>
+                <td><button onclick="alert('Entry: Entry C')">Entry C</button></td>
+            </tr>
+            <!-- Add more rows as needed -->
+        </tbody>
+    </table>
+    <script src="scripts.js"></script>
+</body>
+</html>
